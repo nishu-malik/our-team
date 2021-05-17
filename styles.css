@@ -135,3 +135,34 @@ body {
 .name {
   font-weight: 400;
 }
+.section-title {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.section-title h2 {
+  font-size: 26px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  padding: 8px 20px;
+  line-height: 1;
+  margin: 0;
+
+  display: inline-block;
+  text-transform: uppercase;
+  border-radius: 50px;
+}
+.leaders h2 {
+  background: white;
+  color: #fb5607;
+  border: 2.5px solid #ff925f;
+}
+.managers h2 {
+  background: white;
+  color: #6ab547;
+  border: 2.5px solid #7fa86d;
+}
+.members h2 {
+  background: white;
+  color: #3a86ff;
+  border: 2.5px solid #7caeff;
+}
